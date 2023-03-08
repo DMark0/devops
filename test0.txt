@@ -1,1 +1,3 @@
 Hello DevOps
+Hey Marko!
+Im adding 2 new lines in this text file.
